@@ -170,7 +170,7 @@ function validarSenhas(senha, confirmacao){
   }
 }
 
-export default function cadastro() {
+export default function Cadastro() {
   const [nome, setNome] = useState("");
   const [senha, setSenha] = useState("");
   const [confirmacao, setConfirmacao] = useState("");
