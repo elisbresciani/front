@@ -7,7 +7,7 @@ import Router from 'next/router'
 import Swal from 'sweetalert2'
 import withReactContent from 'sweetalert2-react-content'
 
-export default function editar() {    
+export default function Editar() {    
     const [id, setId] = useState("");
     const [nome, setNome] = useState("");
     const [email, setEmail] = useState("");
