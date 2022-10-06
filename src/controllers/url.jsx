@@ -1,3 +1,3 @@
 export default class Host {
-    static url = "http://localhost:5000/";
+    static url = "https://login-app-ponto.herokuapp.com/";
 }
