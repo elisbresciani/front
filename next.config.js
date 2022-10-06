@@ -3,7 +3,7 @@ module.exports = () => {
     return [
       {
         source: "/",
-        destination: "http://localhost:5000/",
+        destination: "https://login-app-ponto.herokuapp.com/",
       },
     ];
   };
